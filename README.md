@@ -1,5 +1,5 @@
-
-# Cyclistic Case Study
+<a name="top"></a>
+# [Cyclistic Case Study](#top)
 This data analysis was completed as part of the [Google Data Analytics Professional Certificate capstone course.](https://www.coursera.org/learn/google-data-analytics-capstone?specialization) 
 
 The objective of this analysis is to discover how the use of Cyclistic's bike-sharing service differ between annual members and casual customers. I used the insights I gathered to develop a marketing strategy aimed at converting casual customers into annual members. 
@@ -337,3 +337,7 @@ If you have any questions or feedback, please reach out to me through my [Linked
 Thank you!
 
 -- Kenny Tran
+
+##
+
+[Return to top](#top)
