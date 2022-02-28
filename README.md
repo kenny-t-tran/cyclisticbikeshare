@@ -218,15 +218,15 @@ RETURN  Mode1`
 
 **Analysis:**
 
- - Annual members preferred weekdays (40.44% vs. 26.59%), with Wednesday being the most popular day (471.71K rides).
+ - Annual members preferred weekdays (40.44% vs. 26.59%), with Wednesday being the most popular day (471.71k rides).
 
- - Casual customers preferred weekends (18.50% vs. 14.47%), with Saturday being the most popular day (584.3K rides).
+ - Casual customers preferred weekends (18.50% vs. 14.47%), with Saturday being the most popular day (584.3k rides).
 
-- The number of rides from casual customers on their second most popular day, Sunday (472K rides), was greater than the most popular day of annual members.
+- The number of rides from casual customers on their second most popular day, Sunday (472k rides), was greater than the most popular day of annual members.
  
  - Ridership accross both customer types dipped in Fall and Winter, but increased rapidly throughout Spring and Summer, dipping as low as 48K rides in February and peaking at 810K rides in July.
 
- - During the 3rd Quarter (July, August, September) casual customer ridership surpassed annual member ridership by 49K or 4.1%.
+ - During the 3rd Quarter (July, August, September) casual customer ridership surpassed annual member ridership by 49k or 4.1%.
  
 - Both customer types preferred classic bikes (likely due to cost and availability).
 
