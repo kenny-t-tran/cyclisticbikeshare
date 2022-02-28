@@ -224,7 +224,7 @@ RETURN  Mode1`
 
 - The number of rides from casual customers on their second most popular day, Sunday (472k rides), was greater than the most popular day of annual members.
  
- - Ridership accross both customer types dipped in Fall and Winter, but increased rapidly throughout Spring and Summer, dipping as low as 48K rides in February and peaking at 810K rides in July.
+ - Ridership accross both customer types dipped in Fall and Winter, but increased rapidly throughout Spring and Summer, dipping as low as 48k rides in February and peaking at 810k rides in July.
 
  - During the 3rd Quarter (July, August, September) casual customer ridership surpassed annual member ridership by 49k or 4.1%.
  
