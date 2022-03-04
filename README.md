@@ -272,7 +272,7 @@ You can find a PDF of my Power BI visualizations [here](https://drive.google.com
 
 Because I don't have a premium Power BI account, I can't publish my dashboard. So, I exported the data from my ***2021_tripdata.pbix*** file to a .csv using DAX Studio and recreated my visualizations in Tableau Public which is available [here](https://public.tableau.com/views/CyclsticCaseStudy/RidesbyDay?:language=en-US&:display_count=n&:origin=viz_share_link).
 
-Lastly, [here](https://drive.google.com/file/d/1qaqT1e2VneSMsjPDBXyKWGGww70Zpszl/view?usp=sharing) is the final Google Slides presentation of my analysis.
+Lastly, [here](https://drive.google.com/file/d/1lFkpNz6Ruyihtl83jqsOLvvxCEbE1JUQ/view?usp=sharing) is the final Google Slides presentation of my analysis.
 
 As for my report, well, you are reading it right now 🙂.
 
